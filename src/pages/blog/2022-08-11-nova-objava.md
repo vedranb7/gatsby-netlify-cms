@@ -7,6 +7,10 @@ description: Ovo je nova objava, čisto zbog testa CMS-a. Mogli bismo mi
 featuredpost: true
 featuredimage: /img/products-grid2.jpg
 ---
+
+
+
+
 Ovo je tijelo opisa objave. Zanimljivo za **koristiti,** nema šta.
 
 Evo i code block:
@@ -15,6 +19,6 @@ Evo i code block:
 <h1>Ne mozes vjerovati... Baš brutala. </h1>
 ```
 
-> Ovo je i citat. Sve možeš. :)
->
-> ![](/img/flavor_wheel.jpg)
+Ovo je i citat. Sve možeš. :)
+
+![alt](/img/flavor_wheel.jpg "naslov slike")
