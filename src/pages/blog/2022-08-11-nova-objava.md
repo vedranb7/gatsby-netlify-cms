@@ -9,8 +9,6 @@ featuredimage: /img/products-grid2.jpg
 ---
 Ovo je tijelo opisa objave. Zanimljivo za **koristiti,** nema šta.
 
-
-
 Evo i code block:
 
 ```html
@@ -18,3 +16,5 @@ Evo i code block:
 ```
 
 > Ovo je i citat. Sve možeš. :)
+>
+> ![](/img/flavor_wheel.jpg)
